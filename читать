@@ -11,3 +11,10 @@ git remote remove origin
 // пушим проект
 
 git push -u origin master
+
+
+чтобы заново запушить
+git add .
+git commit "read"
+
+git push
