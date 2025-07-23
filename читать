@@ -1,0 +1,13 @@
+git remote add origin https://github.com/mishaproqq/project2.git
+
+
+подключаемся
+
+git remote. выдаст что мы подключены к origin
+
+// отключаемся
+git remote remove origin
+
+// пушим проект
+
+git push -u origin master
